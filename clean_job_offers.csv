@@ -1,625 +1,625 @@
-,job_title,company_name,company_location,work_method,role,bachelor,masters,phd,no_diploma,python,sql,nosql,java,julia,matlab,tensorflow,tableau,powerbi,qlikview,excel,cloud,work_type
-0,Data Architect (AWS),Tata Consultancy Services,"São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-1,Staff Data Engineer - Machine Learning Platform,Spotify,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Tempo integral
-5,Data Scientist - Remote - Latin America,FullStack Labs,Brasil,Presencial,Cientista de Dados,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-6,Analista Omnichannel Insights Pleno,Pfizer,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Tempo integral
-7,Especialista de Dados,Prudential Financial,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-9,Banco de Talentos | Dados & Analytics,Accenture Brasil,Belo Horizonte e Região,Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-10,Pessoa Executiva Digital I – Negócios em Publicidade | Mais pessoas com deficiência na Globo! 🦾,Globo,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-12,BI Analyst,"Chima Steakhouse, BBS USA","Uberlândia, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral
-14,Analista de Talento & Cultura Jr - (19026),Rosewood São Paulo,São Paulo e Região,Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-16,Data Analyst Internship - Brazil,Viasat Inc.,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-17,Estágio - Data Analytics,Grupo GCB,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-18,Observability Analyst,Enkel TI,"Barueri, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-19,DATA ARCHITECTURE JR. MANAGER - STRATEGY & DIGITAL - IM (SP),Novartis Brasil,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-20,Data Analyst SSBI - Suporte PBI & PBI Server,Deloitte,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-21,Data Engineer,IBM,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-22,Analista de Dados Jr. (Python),NielsenIQ,"Cotia, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-23,Estagiário de Business Intelligence,green4T,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-24,Analyst / Data/AI (),Decision,São Paulo e Região,Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-25,Estágio - Data Science SP,Visagio,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-26,Pessoa Estagiária em Data Science e Analytics,Horus,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-27,Estagiário de Business Intelligence,Víssimo Group,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-28,Estagiário de Business Intelligence,FortBrasil,"Fortaleza, Ceará, Brasil",Híbrido,Analista BI,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Contrato
-29,ANALISTA DE DADOS - Junior,Grupo Selecionar,São Paulo e Região,Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-30,Estágio em Business Intelligence,Vetta,Brasil,Híbrido,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-31,Analista de Dados Pl.,PagBank PagSeguro,São Paulo e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-32,[Vaga afirmativa para pessoas pretas] Business Intelligence Analyst,SumUp,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-33,Data Researcher Jr.,"APWireless Infrastructure Partners, LLC","São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Tempo integral
-34,Data Engineer and Data Science Intern,HP,"Porto Alegre, Rio Grande do Sul, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,Meio período
-35,Data Engineer Python Júnior a Pleno,GeekHunter,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,Tempo integral
-36,Analista de Dados (Remoto),GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-37,Estágio Data Science,Vinci Partners,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-38,Analista de Dados,BIZM - Business Makers,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-39,ANALISTA DE DADOS JUNIOR,C2C - Close to Consumer,São Paulo e Região,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-40,Analista de Dados Python Pleno,GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-41,Data Analysis Intern (Remote Internship - Analyst),Brainnest,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-42,SummerJob: Data Science SP,Visagio,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-43,ESTÁGIO EM BUSINESS INTELLIGENCE [SP],Soul Trade Marketing,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral
-45,ANALISTA DE DADOS JR,PicPay,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-46,Analista de Dados (ETL) Pleno,Evollo,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-47,ESTÁGIO EM ANÁLISE DE DADOS - BI,Movida Aluguel de Carros,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral
-48,Estágio - Data Science RJ,Visagio,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-49,ANALISTA DE DADOS - Pleno,Grupo Selecionar,São Paulo e Região,Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-50,Analista de Dados,Meta BPO,São Paulo e Região,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-51,Estágio em Ciência de Dados,GRH Group,"Sorocaba, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-52,Data Analytics Associate,Alvarez & Marsal,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,1,Tempo integral
-53,Data Analytics,Cognizant,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,Meio período
-54,Estágio - Data Science NE,Visagio,"Recife, Pernambuco, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Meio período
-55,Estágio em Ciência de Dados e Machine Learning - Afirmativa para Mulheres,Vetta,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-57,Estágio em Analista de Dados,Referência Seguros,"Brasília, Distrito Federal, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-59,Talent Pool - Data Engineering,Cargill,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-60,Analista de Risco e Modelagem Jr.,PagBank PagSeguro,São Paulo e Região,Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Meio período
-61,Analista de Dados (Vaga Afirmativa para Mulheres),Shopee,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-62,Data Analyst SSBI,Deloitte,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,Tempo integral
-64,Estágio Dados,Solenis,"São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-65,ANALISTA DE CIENCIA DE DADOS PL,Inmetrics,"Barueri, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-66,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-67,Analista de Dados Júnior,Neogrid,São Paulo e Região,Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-68,Data Engineer - Big Data (Remoto),IBM,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-69,Engenheiro de dados,APLLOS,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-70,Engenheiro de Dados Sênior,Marketdata,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-71,Estagiário(a) Ciência de Dados,Omnilogic,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-72,Cientista de Dados (Home Office/Brasil),Programmers - Beyond IT Brasil,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-73,Analista de modelagem de dados júnior,Itaú Unibanco,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-74,Analista de Business Intelligence Júnior,Itapeva Recuperação de Créditos,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-75,Analista de Dados JR,Alea S.A.,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-76,Estagiário (a) - HUB DE DADOS,Som Livre,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,Tempo integral
-77,Estágio em Ciência de Dados e Machine Learning - Afirmativa para Mulheres,Vetta,Belo Horizonte e Região,Híbrido,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-78,Data Visualization,Tata Consultancy Services,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-79,Data Product Owner Junior,C6 Bank,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-80,Analista de Dados (Vaga Afirmativa para Pessoas Negras),Shopee,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-81,Analista BI (d / m / f),TK Elevator,"Guaíba, Rio Grande do Sul, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-82,Estágio em Ciência de Dados,Grhats Recursos Humanos,"Sorocaba, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Meio período
-83,[Minsait] Analista de Dados Jr,Minsait,"Osasco, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-84,Analista de Análise de Dados Junior,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-85,Engenheiro de Dados Júnior a Pleno,GeekHunter,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral
-86,Analista de Dados,Work4all Brasil,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-87,Estagiário em Business Intelligence,RPO Solutions,"Teresina, Piauí, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-89,Estágio de Business Intelligence,Grupo Portfolio,"Fortaleza, Ceará, Brasil",Presencial,Analista BI,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-90,Analista de Dados,HC CONSULTING,"São José dos Campos, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-91,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,São Paulo e Região,Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-92,Data Engineer - Big Data (Remoto),IBM,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-93,Arquiteto de Dados (Vaga Afirmativa para Mulheres) - Remoto,Robert Walters,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Tempo integral
-94,Analista de Dados (Comercial),Escola Mais,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Tempo integral
-95,Cientista de dados Júnior,Mindsight,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-96,Data Analysis Intern (Remote Internship - Analyst),Brainnest,"Brasília, Distrito Federal, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-97,Analista de Dados Em Benefícios,Marsh Brasil,"São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Meio período
-98,Arquiteto de dados,INTERA | Talent Hacking,"São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral
-99,Analista de Dados,Riosulense,"Rio do Sul, Santa Catarina, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Meio período
-100,Analista de Dados,Luandre RH - Soluções em Recursos Humanos,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-101,Analista de Dados JR,Cyrela,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-102,Cientista de Dados Junior,Porto,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-103,Data Engineer - Online Job,Oowlish,"Belo Horizonte, Minas Gerais, Brasil",Remoto,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Meio período
-104,Cientista de dados,Hospital Israelita Albert Einstein,São Paulo e Região,Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Tempo integral
-105,Environmental Data Analyst (entry level),ERM,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral
-106,Analista De BI I,REKRUTA JA,São Paulo e Região,Remoto,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-107,Banco de Talentos- Time Tecnologia- Dados,Zoox Smart Data,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-108,Estágio em Data Analytics (Analítico),i-Cherry,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-109,Estágio Business Intelligence,GCS Agro,"Lago Norte, Distrito Federal, Brasil",Presencial,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-110,"Data Analytics, Last Mile COE",Ambev Tech,"Campinas, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-111,Analista de Dados ( Setor Marketing ) - Remoto,GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-112,Engenheiro de Dados,GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-113,Data Analysis Intern (Remote Internship - Analyst),Brainnest,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-114,Analista de Dados,Grupo GCB,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Tempo integral
-115,Estágio em Banco de Dados,IQVIA,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-116,TECH - DATA | Data Analyst,BTG Pactual,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-117,Insurance Data Analyst,FIS,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-118,Data Scientist (Remoto),IBM,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-119,Data Analysis Intern (Remote Internship - Analyst),Brainnest,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-120,Banco de Talentos Datarisk: Dados e Tecnologia,Datarisk,Florianópolis e Região,Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-121,Data Engineer - Online Job,Oowlish,"Florianópolis, Santa Catarina, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-122,Analytics Engineer,Adyen,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-126,Business Intelligence Analyst (HÍBRIDO),MATH,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,Tempo integral
-127,ESTÁGIO TALENTO - DATA SCIENCE,Lojas Quero-Quero S.A.,"Cachoeirinha, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-128,ANALISTA DE DADOS,Outlet Lingerie,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-129,"People Analytics - Morumbi, SP",UnitedHealth Group,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-130,Analista de Ciência de Dados Pleno,Itaú Unibanco,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-131,Analytics Insights,Quod,"Barueri, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-132,Cientista de Dados,BIZM - Business Makers,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-133,Analista de Dados Junior - para Minsait (An Indra Company),Modern Talent Hub,São Paulo e Região,Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,Meio período
-134,20789 - Pessoa Estagiária Nível Superior - Dados e Analytics,Intelbras,"São José, Santa Catarina, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Meio período
-135,Analista de Dados I,V.tal,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,Contrato
-136,Data Engineer,GeekHunter,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-137,analista de data analytics pleno,enjoei,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-138,"JUNIOR DATA SCIENTIST - Dubai, UAE",Cobblestone Energy,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,Tempo integral
-139,Analista de Dados,Grupo Via Capital,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-140,ANALISTA DE DADOS SQL,Grupo Vamos,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-141,Business Intelligence & Core Data Coordinator,IQVIA,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-142,TECH - DATA | Data Platform Engineer,BTG Pactual,São Paulo e Região,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-144,Especialista de Dados,Prudential Financial,São Paulo e Região,Remoto,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-145,Engenheiro de Dados,BIZM - Business Makers,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-146,Data Analytics Jr,Grupo Tony Veículos,"São José dos Campos, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Tempo integral
-147,Business Analyst Intern,Amazon,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-149,"Senior Associate, Insights Data Science",Bain & Company,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-150,Engenheiro de Dados Pl,S3 BANK,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-152,Data Science Intern,Samsung Brasil,"Campinas, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-153,Analista de Dados,Weclix,"Ribeirão Preto, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-154,Analista de Dados,Grupo Apisul,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-155,Programa Minha Chance_Jovens Profissionais Microsoft e Google,Minsait,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-156,Cientista de Dados Júnior,Amplifica Digital,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-157,Estagio Analista de Dados Comerciais,Mais Estágios,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,Tempo integral
-158,Estágio em Business Analytics,HostGator América Latina,Brasil,Híbrido,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-159,Analista de Segurana de Dados Jr,NPW Digital,São Paulo e Região,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-160,Analista de Dados,Refera,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-161,Cientista de Dados,Meta,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-162,Analista de Data Science,Xcelis,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-163,Especialista de BI,HDI Seguros,São Paulo e Região,Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-165,DATA SCIENCE CONSULTANT SAO PAULO,Management Solutions,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,Tempo integral
-166,Engenheiro de Machine Learning (ML Engineer),ILUMEO - Data Science Company,"São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-168,Data Engineer - Online Job,Oowlish,"Porto Alegre, Rio Grande do Sul, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-169,Analista de Sistemas | Cientista de Dados,Deloitte,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-170,Cientista de Dados - Júnior,EY,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-171,Cientista de Dados Júnior,DataEX,"Jundiaí, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-173,Cientista de Dados,Natura,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-174,Especialista de Dados,Prudential Financial,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-175,Data Analyst Sr,banco BV,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-177,Cientista de Dados (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,1,0,1,1,1,1,0,0,1,Tempo integral
-178,Cientista de Dados | Big Data & AI,Globo,Brasil,Híbrido,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral
-180,Analista de Dados,Casa do Pica-Pau,"Goiânia, Goiás, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-181,Pessoa Cientista de Dados Júnior - Varejista de Food Service,BIP Brasil,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-182,Analista de Dados,G4 Educação,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,Tempo integral
-184,ANALISTA DE DADOS JR,YDUQS,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-185,Data Engineer Python,GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,Tempo integral
-186,Analista de Dados Pleno - Modelos de Previsão de Demanda,Itaú Unibanco,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-187,Analista de Dados,Meta,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-188,Analista de Dados e Power BI,LogsUp Logística Sustentável,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,Tempo integral
-189,Data Engineer,TRACTIAN,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Tempo integral
-190,Vaga afirmativa para pessoas LGBTQIA+ (Analista de Dados),Marketdata,"São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Meio período
-193,Vaga afirmativa para pessoas pretas (Analista de Dados),Marketdata,"São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-194,Data Engineer,Dell Technologies,Brasil,Presencial,Engenheiro de Dados,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,0,Meio período
-196,Analista de dados,Grupo Skytech,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-197,Data & Analytics Analyst (Latam Cross Border Team),Shopee,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-198,Data Scientist - English speaker (Hybrid),Shift Technology,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-199,Environmental Data Analyst (Entry Level),ERM,"Salvador, Bahia, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Meio período
-201,Data Technology Consultant,Microsoft,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-202,Artificial Intelligence Intern,Samsung Brasil,"Campinas, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-203,Estagiário de Business Intelligence,Extrabom Supermercados,"Serra, Espírito Santo, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Tempo integral
-204,Especialista Product Owner (Dados & AI) | Advertising,Globo,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-207,Analista de Dados (Modelagem) na Vivo,INTERA | Talent Hacking,"São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Meio período
-208,Analista de dados pleno,Studio Z,"São José, Santa Catarina, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,Tempo integral
-209,Analista De Dados,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-210,Analista de Dados,Burh,"Sorocaba, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-211,Analista de Dados Júnior,i-Cherry,"Curitiba, Paraná, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-212,Trainee Recrutamento Tech,NEORIS,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-213,Analista De Dados,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-214,Analista De Dados,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-218,Business Systems Analyst Jr.,IQVIA,"São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-220,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,São Paulo e Região,Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Meio período
-221,Data Analytics Mid-Level,CI&T,Brasil,Remoto,Analista de Dados,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Meio período
-222,Pessoa Engenheira de Dados,XP Inc.,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-223,Engenheiro de dados,DISYS Brasil,São Paulo e Região,Híbrido,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-225,Data Analyst - Listings,Shopee,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-226,"Marketing Analyst (Bangkok Based, relocation provided)",Agoda,São Paulo e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-227,Analista De Dados,Brasilcom,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-228,Data Analyst Specialist,Bridgestone do Brasil,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-231,"Data Analytics, Last Mile COE",Ataway,"Campinas, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-233,Analista de banco de dados,PSM COMPANY,"Brasília, Distrito Federal, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-234,Analista de BI,Hospital Israelita Albert Einstein,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,Tempo integral
-237,Banco de Talentos - Business Intelligence,MODALGR,"Santos, São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Meio período
-238,Analista de Dados,Varejo MAIS,"Natal, Rio Grande do Norte, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-239,Analista de Dados,Hirota Food Supermercados,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-240,ANALISTA DE DADOS - CRÉDITO,Grupo Avenida,São Paulo e Região,Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-241,Data Engineer,Corteva Agriscience,"Barueri, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-242,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Manaus, Amazonas, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-244,Engenheiro de dados,Medway | Educação Médica,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-245,Analista de dados,BRNPAR Empreendimentos Imobiliários.,"Araras, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-246,Cientista de Dados Machine learning pleno,GeekHunter,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-248,S&PP Analytics Support – Sustainability Services,Accenture Brasil,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-249,Data Scientist Specialist,Gympass,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-250,Data Engineer Jr.,Peers Consulting & Technology,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Meio período
-253,Data Engineer,BEES Brasil,"Campinas, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-254,Environmental Data Analyst (Entry Level),ERM,"Porto Alegre, Rio Grande do Sul, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral
-255,Analista de Dados Sênior,Uze,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-256,Analista BI - Powercenter,Foursys,Brasil,Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-257,Data Engineer Coordinator (Marketplace Fraud Prevention),Shopee,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-259,Analista Banco de Dados Pleno,Bradesco Seguros,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-260,Data Engineer,Adyen,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-262,Sympla | Analista de Dados - Risco,Anywhere,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,Tempo integral
-263,Analista de BI,C&A Brasil,"Barueri, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-266,Artificial Intelligence Analyst,Tata Consultancy Services,"São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Tempo integral
-269,"Data Analyst, Strategic Partnerships( Bangkok based)",Agoda,São Paulo e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-270,Business Analytics,Egger e Mesquita Advogados Associados,São Paulo e Região,Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-272,Data Scientist (Fraud Prevention),"CloudWalk, Inc.","São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-273,Junior Data Scientist,4flow,"Campinas, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,Tempo integral
-274,Data Analyst Business Operations,Nowports,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-275,Pessoa Engenheira de Dados | Big Data & AI,Globo,Brasil,Presencial,Cientista de Dados,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-277,Data Scientist,Peers Consulting & Technology,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Meio período
-278,Alteryx Data Scientist,Data Meaning,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-279,Data Visualization Pleno,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-280,Business Data Analyst - Chargeback,Shopee,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-281,Environmental Data Analyst (Entry Level),ERM,"Belo Horizonte, Minas Gerais, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral
-282,Digital Analytics,XP Inc.,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-283,Estágio em Indicadores (PowerBi e Excel) - Vaga exclusiva para mulheres,Braskem,"São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-284,Pessoa Engenheira de Dados Júnior,Provi,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-285,Analista de Dados,Icaro Tech,Campinas e Região,Híbrido,Analista de Dados,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,Tempo integral
-286,Analista de Dados,CTC,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-287,Cientista de Dados Junior,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-288,Analista Power BI,DBC Company,Brasil,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-289,Engenheiro de Dados PL | Open Finance,PicPay,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,Meio período
-290,Business Intelligence Analyst,IQVIA,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-293,TECH - DATA | Data Analytics Specialist,BTG Pactual,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,Tempo integral
-295,Engenheiro de Dados Jr.,Sua Música,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-296,Data Scientist,OpenCircle,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-297,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Curitiba, Paraná, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-298,Monitoring Analyst,"CloudWalk, Inc.","São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Meio período
-299,Cientista de Dados III | Telecine,Globo,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-301,BI Engineer,Amazon Business,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,Tempo integral
-302,Banco de Talentos - Cientista de Dados,Duratex,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,Tempo integral
-303,Analista De Dados | Inteligência Artificial,Unifique Telecomunicações,"Timbó, Santa Catarina, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-304,Cientista de Dados - Sênior,EY,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-305,Analista de Análise de Dados Pleno,C6 Bank,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-306,Data Analyst,Wipro,Brasil,Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-309,Engenheiro de Dados | Analytics Engineer,Trinus Co.,"Goiânia, Goiás, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-310,Analista De Dados Crm,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-312,Analista de produtos,Bradesco Seguros,"Barueri, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Contrato
-313,Analista de B.I SR,Hospital Sírio-Libanês,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Tempo integral
-315,Analista de Ciência de Dados,Lojas Renner S.A.,Porto Alegre e Região,Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Meio período
-317,Analista de Dados (Exclusiva para pessoas com deficiência - PCD),Alice,"São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-318,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Salvador, Bahia, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-319,Staff Machine Learning Engineer - Freemium,Spotify,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,Tempo integral
-320,Consultor De Dados,Delfia,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-321,Tecnologia | Cientista de Dados e Analytics,Cielo,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-322,Cientista de Dados I | Inteligência e Soluções Para o Consumidor,Globo,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-324,Data Scientist - Advanced Analytics (Remoto),IBM,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,1,Tempo integral
-325,Analista de Dados (Exclusiva para PCDs),Dasa,"São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-326,Environmental Data Analyst (Entry Level),ERM,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral
-327,ECS | Pessoa Analista de Dados Pleno,Serasa Experian,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-331,CRIPTO (MYNT) | Business Analyst,BTG Pactual,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-332,Mulheres em Dados | Engenharia de Dados,Itaú Unibanco,"São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-334,Environmental Data Analyst (Entry Level),ERM,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral
-335,Consultor De Dados,Delfia,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-336,BI Engineer,Amazon Business,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,Tempo integral
-337,Engenheiro de Dados Sênior,Omega Energia,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-338,Analista de Arquitetura de Dados Pleno,banco BV,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Meio período
-339,Analista ETL,TMF Group,"Barueri, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-340,Staff Software Engineer - Data Platform,Atlas.xyz,Brasil,Presencial,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-341,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,Belém e Região,Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-343,TECH - DATA | Data Engineer,BTG Pactual,São Paulo e Região,Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-344,Data Engineer - Online Job,Oowlish,"São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-345,Analista de Dados - BI,Jadlog Logística,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-346,Especialista I Data Analytics (Canal Loja),Grupo Boticário,Brasil,Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,Tempo integral
-349,Analista de Modelagem Sênior,Quod,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-351,Data Engineer Mid-level,CI&T,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-352,Analista de Modelagem de Dados,Puravida,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-353,Machine Learning Dev,Capgemini,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-354,Data Scientist,Amaris Consulting,Campinas e Região,Híbrido,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-355,Vaga afirmativa para pessoas pretas (Cientistas de Dados),Marketdata,"São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-358,"Sales Specialist, Data Analytics, Small and Medium-sized Businesses",Google,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-359,Business Intelligence Analyst *W2 only* [Remote],Braintrust,São Paulo e Região,Presencial,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-360,Data Scientist,Clara,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-361,Front Office Risk Analyst,StoneX Group Inc.,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-362,Analistas e Consultores Host,Accenture Brasil,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-364,Analista de Dados,BRASIL E XAVIER ATIVIDADES DE PSICOLOGIA LTDA,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral
-365,ANALISTA DE DADOS TELECOM - BAURU,Paschoalotto,"Bauru, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-368,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Brasília, Distrito Federal, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-369,Machine Learning Developer,unico IDtech,Brasil,Remoto,Cientista de Dados,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Tempo integral
-370,Analista De Dados Crm,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-371,Analista De Dados Crm,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-373,Analista de Privacidade de Dados,AlmavivA do Brasil,"São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-374,Data/Back-End Engineer - Analytics Platform,Spotify,Brasil,Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Meio período
-375,Engenheiro / Cientista de Dados,ArcelorMittal Sistemas,"Belo Horizonte, Minas Gerais, Brasil",Híbrido,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-377,Analista De Dados Crm,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-378,Analista de dados,Seleção & Avaliação de Potencial,"São Sebastião do Caí, Rio Grande do Sul, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-379,Analista de Dados,A3Data,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-380,Business Analyst - Vaga exclusiva para PCD,Oracle,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-381,Cientista de Dados Pleno - Sleep Tracker (Persono),ammo.varejo,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral
-382,Analyst 3 | QuantDevs,XP Inc.,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-383,Cientista de dados,Grupo IOB,Brasil,Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-384,Data Specialist - Customer Service Strategy,Gympass,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-385,Engenheiro de Dados I,V.tal,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-386,[RH] Analista de Dados,Beep Saúde,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-387,Analista de Dados TI,Record TV,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-388,Support System Analyst,Tata Consultancy Services,"São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-390,Pessoa Analista Consultora de Dados & Analytics,Itaú Unibanco,"São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,Tempo integral
-391,"Senior Data Analyst, Partner Development – (Statistics/ML/BI) (Bangkok-based, relocation provided)",Agoda,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-393,Pessoa Cientista de Dados Sênior,banQi,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Tempo integral
-394,Data Tech Lead,banco BV,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-395,Analista De Dados -Projetos- / Piracicaba / 1 Vaga -S- -2541585 -,AG Talentos,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-396,Cientista de Dados,Keyrus Brasil,São Paulo e Região,Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-397,Engenheiro de dados,Ânima Educação,Brasil,Remoto,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-398,Business Analyst,Tata Consultancy Services,"São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-400,Analista Pleno | Foco em BI (Data Visualization),Deloitte,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,Tempo integral
-401,Estágio em Indicadores (PowerBi e Excel) - Vaga exclusiva para pessoas negras,Braskem,"São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-402,Analista de Dados _ Insights & Analysis,JeffreyGroup,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral
-403,Data Science (Presencial - Belo Horizonte),Coodesh,"Belo Horizonte, Minas Gerais, Brasil",Híbrido,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-404,Analista de Estrategia e Prevenção a Fraude Jr.,PagBank PagSeguro,São Paulo e Região,Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-406,Data Engineer - Data Modeling (Home Office),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-408,Analista De Dados,Mercopampa Transportes,"Santa Maria, Rio Grande do Sul, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-409,CHATBOT ANALYST,Mundiale,Brasil,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-410,Especialista de Análise de Dados,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-411,Analista ETL,Minsait,"São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-413,Analista de Dados,Icaro Tech,"Campinas, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,Meio período
-415,Analista de Business Intelligence Pleno,ALD Automotive Brasil,São Paulo e Região,Presencial,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-417,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Porto Alegre, Rio Grande do Sul, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-418,GCP Data Engineer | Remote,Capgemini,São Paulo e Região,Remoto,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,Tempo integral
-419,Engenheiro de Dados,Accenture Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-420,Analista de Dados & Growth,Pieta.tech,"Florianópolis, Santa Catarina, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-421,Analista de Dados e Insights,Score Group Brasil,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Meio período
-422,Business Analytics SR,banco BV,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-423,Data Engineer - Personalization,Spotify,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-424,Data Engineer | Python Developer,Reply,Brasil,Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-426,Analista de Web Analytics,Take Blip,Belo Horizonte e Região,Híbrido,Analista de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Contrato
-428,Engenheiro Machine Learning,labsit,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,Tempo integral
-429,Analista de Dados Pleno,Riachuelo,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-430,Pessoa Engenheira de Dados,Z1,Brasil,Híbrido,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Meio período
-431,Top Funnel Analyst,Nielsen,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-433,ANALISTA DE INTELIGENCIA ESTATÍSTICA PLENO (100% REMOTO),ClearSale,Brasil,Remoto,Analista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-434,Gerente de Dados BI,Dasa,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Meio período
-435,Analista de Dados e Business Intelligence,Novare RH,"Curitiba, Paraná, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-436,Analista de Dados,Robert Half,"São Bernardo do Campo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Tempo integral
-438,Remote Data Analyst/Engineer Jobs,Turing.com,Brasil,Remoto,Analista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-439,Analista VBA,GET ITalent,"São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-440,Engenheiro de Dados - Business Intelligence,ALD Automotive Brasil,"São Paulo, Brasil",Remoto,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-442,Applied Data Scientist,dunnhumby,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-443,Análise de BI | Híbrido,Grupo Mult,"Belo Horizonte, Minas Gerais, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-445,Analista de Dados - Jr e Pl híbrido - São Paulo,Atento Brasil,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-446,Cientista de Dados Pleno,Porto,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-447,"Insights Analyst (Bangkok Based, relocation provided)",Agoda,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-448,Data Scientist - Remote - Latin America,FullStack Labs,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Meio período
-450,Machine Learning Engineer,Luizalabs,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-452,Banco de Talentos - Cientista de Dados,Dexco,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,Meio período
-453,Analista De Projetos Desenvolvedor - Cientista De Dados,C2C CLOSE TO CONSUMER BRASIL PROMOTORA DE VENDAS LTDA,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Tempo integral
-454,212039 Business Intelligence Developer,IQVIA,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-459,Analista Business Intelligence Pleno (PCD),Base Consultoria,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-463,Analista de Dados - CRM,Hospital Israelita Albert Einstein,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-464,Analista de Sistemas de TI | Logística,Lojas Renner S.A.,"Cabreúva, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-465,Analista de Dados Pleno,"Opice Blum, Bruno e Vainzof Advogados Associados","São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-466,Data Technology Consultant,Microsoft,"Alagoas, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-467,System Test Analyst,hEDGEpoint Global Markets,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-469,Application Developer - Microsoft Analytics (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-470,Analista de Dados Estatísticos,Bomi Group,"Itapevi, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-471,Pessoa Cientista de Dados - CoE xTech,BIP Brasil,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-472,"Business Analyst, Strategic Partnerships( Bangkok based)",Agoda,São Paulo e Região,Remoto,Analista BI,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-474,Staff Data Engineer - Messaging Platform,Spotify,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Meio período
-475,Data Engineer - Online Job,Oowlish,"Salvador, Bahia, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-476,"Software Engineer, People with Disabilities",Google,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-477,Pessoa Especialista Em Ciência De Dados (Area 1),GPTI,"Brasília, Distrito Federal, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-478,Analista de Dados Comercial,Escola Mais,São Paulo e Região,Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,Tempo integral
-479,Business Intelligence Developer,IQVIA,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-480,Business Analytics,XP Inc.,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-481,Data Engineer Intern,MBOCHIP,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-482,Pessoa Engenheira de Software | Big Data & AI,Globo,Brasil,Presencial,Cientista de Dados,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,Tempo integral
-484,Analista Inteligência de Dados Pleno,Porto,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,Tempo integral
-485,Especialista Data Analysis Pleno a Sênior,GeekHunter,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-486,Trainee Recrutamento Tech,NEORIS,"São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-487,Analista de Dados Estratégicos,Unimed-BH,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-489,ANALISTA DE DADOS FLORESTAIS - COLHEITA,Gerdau,"Três Marias, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral
-490,Analista de Governança de Dados,Itaú Unibanco,"São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-492,"Senior Business Analyst (Bangkok Based, relocation provided)",Agoda,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-493,Data Engineer - Online Job,Oowlish,"Brasília, Distrito Federal, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-494,Machine Learning Specialist,BEES Brasil,"Campinas, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-495,ANALISTA DE DADOS,Thermomatic do Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Contrato
-496,Business Analytics,Gipsyy,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-498,Engenheiro de Dados,EY,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Meio período
-501,Analista de Sistemas | Arquiteto(a) de Dados,Deloitte,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-502,Web Analytics Engineer Jr,Descomplica,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-503,Analista De Governança De Dados,Iterative Inc.,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-505,Senior Data Analyst,Pipefy,Brasil,Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-507,Remote Senior Data Scientist Jobs,Turing.com,Brasil,Presencial,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-509,Cientista de Dados Pleno,TGroup,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Meio período
-510,Pessoa Analista de Governança de Dados (exclusiva para PCDs),UNICRED DO BRASIL,"Porto Alegre, Rio Grande do Sul, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral
-517,Data Technology Consultant,Microsoft,"Mato Grosso do Sul, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-518,Data Engineer - Big Data (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-519,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,"Curitiba, Paraná, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-520,Cientista de dados,Entelgy Brasil,Brasil,Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-521,Analista de Dados Jurídicos - KPIs,Nelson Wilians Advogados,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-523,Intern Data Consultant - Sao Paulo - October 2022,Artefact,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-524,"Analista de BI - Uberlândia, MG",Sankhya Gestão de Negócios,"Uberlândia, Minas Gerais, Brasil",Híbrido,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-525,Programa Potenciais - Estagio,Stefanini Brasil,"São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-526,Engenheiro de dados,Optima PS2 Solutions,"Cotia, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,Tempo integral
-527,Engenheiro de dados,Capitani Group,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-528,"Data Scientist - Supply Chain Innovation, Supply Chain & Integration",Amazon,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-530,Analista de Dados Jr/Pl/Sr - Belo Horizonte e região - home office,Atento Brasil,Belo Horizonte e Região,Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-534,Customer Experience | Data Analyst,Hurb,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral
-535,Mid-Level Data Analyst | Trainiac,Gympass,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-537,BUSINESS ANALYST,Kavak.com,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,Contrato
-538,Remote Data Analyst Jobs,Turing.com,Brasil,Remoto,Analista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-539,2023 Bloomberg Trainee Program - Analytics & Sales - January Class,Bloomberg LP,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-542,Python Development Analyst,Tata Consultancy Services,Brasil,Presencial,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-545,BI TI Desenvolvedor Programador - Escritrio De Contabilidade,Moresco Contabilidade,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-546,Banco de Talentos - Cientista de Dados,Plannera,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-547,Associate Data Analyst- Customer Experience Group | Bangkok-based,Agoda,"Manaus, Amazonas, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-549,"RGM Sr. Analyst, LAC",Bacardi,"São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,Tempo integral
-550,Data Technology Consultant,Microsoft,"Acre, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-551,Data Scientist (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-552,Engenheiro de Dados,Grupo Habib's,"Barueri, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-553,Data Analyst,Artefact,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,Tempo integral
-554,Engenharia de Dados,Itaú Unibanco,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-555,Analista de BI,AKA Tecnologia,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Contrato
-556,Engenheiro de Dados Sr.,PagBank PagSeguro,São Paulo e Região,Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-557,Antifraud Analyst,99,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-559,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-560,Data Engineer,Trademaster,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral
-562,Data Analytics Specialist Mid-Level,CI&T,Brasil,Híbrido,Analista de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-564,Data Acquisition Advisor,TransUnion,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral
-565,Engenheiro de Dados Sr,Stefanini Brasil,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,Tempo integral
-566,"Associate, Data Insights and Forensics",Kroll,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,0,1,1,0,1,1,Tempo integral
-567,Data Platform Engineer,XP Inc.,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,Tempo integral
-569,Data Technology Consultant,Microsoft,"Santa Catarina, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Meio período
-570,Data Scientist Specialist,Samsung Brasil,"Campinas, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,Tempo integral
-571,[GH] ANALISTA DE BI PL - REMOTO - #41954,iBlue Consulting,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-572,Engenheiro de Dados Pleno (GCP),banco BV,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-573,Data Analytics Specialist Senior,CI&T,Brasil,Híbrido,Analista de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-575,"Senior Associate, Insights Data Science",Bain & Company,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-576,Engenharia de Dados,Itaú Unibanco,"São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-577,Data Analytics,e-frete,"Itajaí, Santa Catarina, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-578,Analistas e Consultores de Telecomunicações,Accenture Brasil,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-579,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,"Salvador, Bahia, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-580,Business Intelligence & Core Data Coordinator,IQVIA,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-581,Engenheiro de Dados,Qintess,Brasil,Remoto,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-582,Finance Data Analyst,Shopee,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-583,Engenheiro Trainee,Level Group BR,"Barueri, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-584,Engenheiro de dados Big Data,Yssy & Co.,"Barueri, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral
-585,Engenheiro de dados,Assurance IT,"São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-586,Intern Data Engineer - Sao Paulo - October 2022,Artefact,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,Tempo integral
-587,Analista de Governança de Dados Jr,Genial Investimentos,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-590,Data Technology Consultant,Microsoft,"Minas Gerais, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-592,Data Engineer,Corteva Agriscience,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-593,Analista e Consultor (a) de Web Analytics,Accenture Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,Tempo integral
-594,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,Belém e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-596,Analista de Data Analytics Pl / Cientista de Dados Pl,CPFL Energia,"Campinas, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-597,Staff Data Engineer,XP Inc.,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-599,Business Analyst (Return and Refund),Shopee,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-601,Analista de Dados - Exclusivo para Profissionais com Deficiência,Itaú Unibanco,Brasil,Remoto,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Tempo integral
-603,Data Engineer - Big Data (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-609,Business Analyst,McKinsey & Company,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-610,Data Strategist [Remote],Braintrust,São Paulo e Região,Remoto,Cientista de Dados,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-616,"Senior Analyst (Bangkok Based, relocation provided)",Agoda,São Paulo e Região,Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-617,Data Technology Consultant,Microsoft,"Mato Grosso, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-619,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-623,Data Engineer - Online Job,Oowlish,"Rio de Janeiro, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-626,CIENTISTA DE DADOS PLENO,Geofusion,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral
-627,Consultor de Dados,Mind Lab,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-628,Coordenador Marketing BI,Coca-Cola FEMSA,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-629,AI Researcher Specialist,Samsung Brasil,"Campinas, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-630,Business Analyst,Customer Intelligence Inc.,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral
-633,Engenheiro de Dados Hadoop - Remoto,Capgemini,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Tempo integral
-634,ANALISTA DE DADOS PL,Platos Educação,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-635,Cientista de Dados Sênior | DialogFlow,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-636,Analista Power BI Sênior,Softtek,Brasil,Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-637,Remote Junior Machine Learning Engineer Jobs,Turing.com,Brasil,Remoto,Engenheiro de Dados,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Contrato
-638,Engenheiro de Dados Jr.,Armac,"Barueri, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-639,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-641,Associate Data Analyst- Customer Experience Group | Bangkok-based,Agoda,"Fortaleza, Ceará, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-642,Data Technology Consultant,Microsoft,"Paraná, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-644,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Presencial,Cientista de Dados,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral
-645,Engenheiro de dados,UDS Tecnologia,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-646,Vagas Remotas de Engenheiro de Machine Learning,Turing.com,Brasil,Remoto,Engenheiro de Dados,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-647,Data Analytics Engineer III,Dock,Brasil,Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-648,Data Engineer (Remote position),Luxoft,Brasil,Presencial,Engenheiro de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-650,Business Analyst (Pharma/ Healthcare Segment),Tata Consultancy Services,Brasil,Híbrido,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-651,Especialista Ciência Dados,Raízen,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Meio período
-652,Analista de Dados (BI) - Brasília/DF,J&T Express Brasil,"Brasília, Distrito Federal, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral
-654,Business Analyst - ADM (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-655,Estágio em Dados,Gringo,"São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-656,ANALISTA DE DADOS BI SR (TABLEAU) – 21325,Bosch Brasil,"Campinas, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,Tempo integral
-657,Analista de Dados Sr,Atento Brasil,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-658,Data Specialist (contrato por prazo determinado),Yara International,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-659,Analista Customer Science Pl,banco BV,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-660,Cientista de dados,Natura,"São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-661,LiveOps Data Science - QuantumBlack Labs,"QuantumBlack, AI by McKinsey","São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-662,"Data Analyst, Trilogy (Remote) - $60,000/year USD",Crossover for Work,"Campinas, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-663,Engenheiro de Dados Big Data Python,Keyrus Brasil,São Paulo e Região,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-664,Data Engineer,Adventures,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-665,Data Engineer,Amaris Consulting,Campinas e Região,Presencial,Engenheiro de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-666,Data Engineer - Remote - Latin America,FullStack Labs,Brasil,Remoto,Engenheiro de Dados,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-667,"Analyst (Bangkok Based, relocation provided)",Agoda,"Manaus, Amazonas, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-669,Data Analytics - Marketing,Hindiana,Brasil,Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-670,Engenheiro de dados,We Hunt,São Paulo e Região,Híbrido,Engenheiro de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,Tempo integral
-671,Data Technology Consultant,Microsoft,"Rio Grande, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-673,Specialist Data Engineer,Pipefy,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-674,Kotlin Mobile Developer - Analyst and Consultant,Accenture Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-675,Company Financials & Earnings Estimates Analyst,Bloomberg LP,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Tempo integral
-677,Sr. Data Analyst (Data Scientist) LATAM,Thermo Fisher Scientific,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral
-679,Big Data Engineer,WhyLabs,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-681,Cientista de Dados,Portal Telemedicina,Brasil,Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Tempo integral
-682,Senior Data Scientist – Core Infrastructure,Spotify,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,Tempo integral
-683,Software Engineer (AI),Gupy,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,Tempo integral
-686,Data Specialist (temporary),Yara International,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-688,Data Analyst,Saint Paul Escola de Negócios,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-689,Analista de dados sênior,Uze,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-690,"Analyst or Senior Analyst- Customer Marketing (Bangkok Based, relocation provided)",Agoda,São Paulo e Região,Presencial,Analista de Dados,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-691,Data Technology Consultant,Microsoft,"Belém, Pará, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-692,Business Analytics Sênior,banQi,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-693,Coordenador de Banco de Dados,PagBank PagSeguro,São Paulo e Região,Presencial,Cientista de Dados,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Tempo integral
-694,Analista De Dados Crm,Grupo Selecionar,"João Pessoa, Paraíba, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-695,Analista de Dados | Plataforma Logística,Lojas Renner S.A.,Porto Alegre e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Meio período
-697,Especialista em Ciência de dados | Data Analytics,americanas s.a.,Brasil,Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-698,Data Translator Specialist,Creditas,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Contrato
-699,"Product Data Scientist, Spotify Advertising",Spotify,Brasil,Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,Meio período
-700,Data Engineer Mid Level,CI&T,Brasil,Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Meio período
-701,Remote Data Analyst / Scientist Jobs,Turing.com,Brasil,Remoto,Analista de Dados,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-702,Especialista de Dados,Bullla - De gente pra gente,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-703,Data Architect (100% Remote),Rain,Brasil,Remoto,Cientista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Meio período
-704,Cientista de Dados Pleno,Ânima Educação,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral
-705,Data Engineer,Tata Consultancy Services,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-708,Engenheiro de Dados,CantuPneus,"Itajai, Roraima, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-709,Analista de Dados,3Neuron,"Florianópolis, Santa Catarina, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,Tempo integral
-710,Analista de Dados,ORGANNACT,"Curitiba, Paraná, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-711,Analista de Dados Pleno,Marketdata,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-712,Data Engineer,TerraMagna,"São José dos Campos, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-713,Pessoa Engenheira de Machine Learning - Pleno/Sênior,Quanto,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-714,Analista de Produtos Júnior,Zurich Santander Insurance America,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-715,Data Technology Consultant,Microsoft,"Piauí, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-716,"Analyst / Specialist (Bangkok Based, relocation provided)",Agoda,Belém e Região,Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-717,Data Consultant - Sao Paulo - October 2022,Artefact,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-720,Analista de Dados/ Crédito,UNICRED CENTRAL MULTIRREGIONAL,"Belo Horizonte, Minas Gerais, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-721,Business Analyst,OpenText,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-722,Analista Cloud DBA Sênior,Pravaler,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-723,Analista de Auditoria JR/PL - Dados,Linx,Brasil,Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,Tempo integral
-724,"Data Scientist, Spotify For Artists",Spotify,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-726,Data Engineer - QuantumBlack,"QuantumBlack, AI by McKinsey","São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral
-727,Engenheiro de dados,3CON Consultoria e Sistemas,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-728,Vagas Remotas de Analista de Dados,Turing.com,América Latina,Híbrido,Analista de Dados,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Tempo integral
-729,Mid-Level Data Analyst | Trainiac,Gympass,Brasil,Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-731,Consultor(a) SAP BW Analytics (Remoto),IBM,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Contrato
-732,Analista Junior,Jobcenter do Brasil Ltda.,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral
-733,Data Engineer,PANTHEON INC. BRASIL,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-735,Afirmativa para Mulheres | Business Analytics,XP Inc.,Brasil,Remoto,Analista BI,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral
-736,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Híbrido,Cientista de Dados,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,1,Tempo integral
-737,Remote Data Scientist Jobs,Turing.com,Brasil,Remoto,Cientista de Dados,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Tempo integral
-738,Cientista de Dados,Engesoftware,"Brasília, Distrito Federal, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Contrato
-739,Analista de Dados,Àgora Marketing e Pesquisa,"Araruama, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral
-740,Data Technology Consultant,Microsoft,"Rondônia, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-743,Analista de Auditoria JR/PL - Dados,Linx,Brasil,Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,Tempo integral
-744,Analista de Dados Pleno,Brivia,"Belo Horizonte, Minas Gerais, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Contrato
-745,Sr Data Science Systems Engineer (Brazil),SAS,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-746,ACCESS AND HEOR ANALYST – INNOVATIVE MEDICINE – SÃO PAULO,Novartis Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-747,"Data Scientist - Part-Time, Bloom Institute of Technology (BloomTech) (Remote) - $30,000/year USD",Crossover for Work,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Tempo integral
-749,Data Protection Associate - Risk Management,EY,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral
-750,Analista de Dados (São Paulo ou Belo Horizonte),Golder,"Agudos, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-751,[Minsait - PT JPA] Analista de Dados ETL,Minsait,"João Pessoa, Paraíba, Brasil",Remoto,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-752,Data Engineer,Sicredi,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,Tempo integral
-753,Analista de Dados Pleno,Marketdata,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-754,Consultor(a) SAP BW Analytics (Remoto),IBM,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tempo integral
-756,"Analyst / Specialist (Bangkok Based, relocation provided)",Agoda,"Salvador, Bahia, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-759,Remote Data Scientist Jobs,Turing.com,Brasil,Remoto,Cientista de Dados,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Tempo integral
-761,PESSOA ENGENHEIRA DE DADOS PLENO,NAVA - Technology for Business,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-762,Analista Júnior de Dados- Mercado Envios,Mercado Livre,"Barueri, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-763,Business Analyst,Kavak.com,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,Tempo integral
-764,Cientista de Dados Sr (vaga afirmativa para Mulheres),Alelo Brasil,Brasil,Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-766,Engenheiro de dados,FPF Tech,"Manaus, Amazonas, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-767,Analista Marketplace Sênior (foco em Dados),Via,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral
-768,Business Analyst,Kavak.com,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,Tempo integral
-769,PESSOA CONSULTORA EM CIÊNCIA DE DADOS (Remoto),Localiza,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Cientista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-770,ANALISTA DE DADOS,Dynamox,"Florianópolis, Santa Catarina, Brasil",Presencial,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-771,Analista Júnior de Dados- Mercado Envios,Mercado Livre,"Barueri, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-775,PESSOA ENGENHEIRA DE DADOS PLENO,NAVA - Technology for Business,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-776,Pessoa Engenheira de Dados Júnior | Vaga Afirmativa para Pessoas com Deficiência,Jusbrasil,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-777,Trabajos remotos de Ingeniero Machine Learning,Turing.com,América Latina,Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral
-778,[Banco de Talentos] Analytics,Solvis,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-779,Engenheiro de Dados,Meta,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-780,Analista de Dados Pl.(Remoto),Ituran Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-781,Analista de BI Pleno,Music2/Mynd,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral
-782,Risk Analyst,Gympass,São Paulo e Região,Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-783,Analista de Planejamento Comercial I Foco em Dados - Exclusivo para Profissionais com Deficiência,Rede,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral
-784,Cientista de Dados Sr (vaga afirmativa para Mulheres),Alelo Brasil,Brasil,Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-787,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Belo Horizonte, Minas Gerais, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-788,Analista de Dados Pleno,Brivia,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral
-789,Sr Data Science Systems Engineer (Brazil),SAS,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral
-790,Data Technology Consultant,Microsoft,"São Luís, Maranhão, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral
-791,Business Analyst (6 vagas) - 2022.2,Gradus Consultoria de Gestão,"São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral
-792,"Analyst (Bangkok Based, relocation provided)",Agoda,Belém e Região,Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-794,Engenheiro de Dados,innolevels,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
-795,Remote Data Scientist Jobs,Turing.com,Brasil,Remoto,Cientista de Dados,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Tempo integral
-799,Product Analyst,Confidential,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-800,Engenheiro de Dados,Jump Label Solutions,"São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-801,Remote Machine Learning Data Scientist Jobs,Turing.com,Brasil,Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-802,Statistical Programmer,Labcorp,"Sertãozinho, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,Tempo integral
-803,Engenheiro de Machine Learning II (Produtos Digitais) - Vaga Afirmativa para Talentos Diversos,Grupo Boticário,Brasil,Híbrido,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-804,"Data Scientist, Strategic Research",Spotify,Brasil,Remoto,Cientista de Dados,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,Tempo integral
-806,Analista de Dados - BI,Ligga,Londrina e Região,Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-807,Analista de inteligência empresarial,Adecco,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral
-808,Engenheiro de Dados Sênior - Azure,EY,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral
-809,Remote AI Researcher Jobs,Turing.com,Brasil,Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,Tempo integral
-810,Analista de Dados e Sistemas,Hospital Pequeno Principe,"Curitiba, Paraná, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-811,ENGENHEIRO DE MACHINE LEARNING SR (100% REMOTO),ClearSale,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,Tempo integral
-812,Business Analyst - ADM (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral
-815,"Analyst & Senior Analyst- Pay Per Click, Marketing (Bangkok Based, relocation provided)",Agoda,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral
-816,Data Engineer II - Fintech,Amazon,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral
-819,Especialista Engenheiro de Dados,ViaHub,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral
-820,Consultor(a) Business Analytics (Qlik) - São Paulo,Deloitte,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,Tempo integral
-823,Technical Product Owner Analyst II (Product Discovery),Dock,Brasil,Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral
-826,Engenheiro de Dados,Stefanini Brasil,"Brasília, Distrito Federal, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral
-827,Big Data Engineer (Scala-Spark),Applaudo,São Paulo e Região,Híbrido,Engenheiro de Dados,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,Tempo integral
+,job_title,company_name,company_location,work_method,role,bachelor,masters,phd,no_diploma,python,sql,nosql,java,julia,matlab,tensorflow,tableau,powerbi,qlikview,excel,cloud,work_type,location
+0,Data Architect (AWS),Tata Consultancy Services,"São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+1,Staff Data Engineer - Machine Learning Platform,Spotify,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Tempo integral,Outros estados
+5,Data Scientist - Remote - Latin America,FullStack Labs,Brasil,Presencial,Cientista de Dados,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+6,Analista Omnichannel Insights Pleno,Pfizer,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Tempo integral,São Paulo
+7,Especialista de Dados,Prudential Financial,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+9,Banco de Talentos | Dados & Analytics,Accenture Brasil,Belo Horizonte e Região,Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+10,Pessoa Executiva Digital I – Negócios em Publicidade | Mais pessoas com deficiência na Globo! 🦾,Globo,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+12,BI Analyst,"Chima Steakhouse, BBS USA","Uberlândia, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral,Outros estados
+14,Analista de Talento & Cultura Jr - (19026),Rosewood São Paulo,São Paulo e Região,Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+16,Data Analyst Internship - Brazil,Viasat Inc.,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+17,Estágio - Data Analytics,Grupo GCB,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+18,Observability Analyst,Enkel TI,"Barueri, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+19,DATA ARCHITECTURE JR. MANAGER - STRATEGY & DIGITAL - IM (SP),Novartis Brasil,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+20,Data Analyst SSBI - Suporte PBI & PBI Server,Deloitte,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+21,Data Engineer,IBM,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+22,Analista de Dados Jr. (Python),NielsenIQ,"Cotia, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+23,Estagiário de Business Intelligence,green4T,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+24,Analyst / Data/AI (),Decision,São Paulo e Região,Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+25,Estágio - Data Science SP,Visagio,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+26,Pessoa Estagiária em Data Science e Analytics,Horus,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,Outros estados
+27,Estagiário de Business Intelligence,Víssimo Group,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+28,Estagiário de Business Intelligence,FortBrasil,"Fortaleza, Ceará, Brasil",Híbrido,Analista BI,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Contrato,Outros estados
+29,ANALISTA DE DADOS - Junior,Grupo Selecionar,São Paulo e Região,Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+30,Estágio em Business Intelligence,Vetta,Brasil,Híbrido,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+31,Analista de Dados Pl.,PagBank PagSeguro,São Paulo e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+32,[Vaga afirmativa para pessoas pretas] Business Intelligence Analyst,SumUp,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+33,Data Researcher Jr.,"APWireless Infrastructure Partners, LLC","São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Tempo integral,São Paulo
+34,Data Engineer and Data Science Intern,HP,"Porto Alegre, Rio Grande do Sul, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,Meio período,Outros estados
+35,Data Engineer Python Júnior a Pleno,GeekHunter,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,Tempo integral,São Paulo
+36,Analista de Dados (Remoto),GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+37,Estágio Data Science,Vinci Partners,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+38,Analista de Dados,BIZM - Business Makers,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+39,ANALISTA DE DADOS JUNIOR,C2C - Close to Consumer,São Paulo e Região,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+40,Analista de Dados Python Pleno,GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+41,Data Analysis Intern (Remote Internship - Analyst),Brainnest,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+42,SummerJob: Data Science SP,Visagio,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+43,ESTÁGIO EM BUSINESS INTELLIGENCE [SP],Soul Trade Marketing,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+45,ANALISTA DE DADOS JR,PicPay,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+46,Analista de Dados (ETL) Pleno,Evollo,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+47,ESTÁGIO EM ANÁLISE DE DADOS - BI,Movida Aluguel de Carros,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+48,Estágio - Data Science RJ,Visagio,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+49,ANALISTA DE DADOS - Pleno,Grupo Selecionar,São Paulo e Região,Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+50,Analista de Dados,Meta BPO,São Paulo e Região,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+51,Estágio em Ciência de Dados,GRH Group,"Sorocaba, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+52,Data Analytics Associate,Alvarez & Marsal,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,1,Tempo integral,São Paulo
+53,Data Analytics,Cognizant,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,Meio período,São Paulo
+54,Estágio - Data Science NE,Visagio,"Recife, Pernambuco, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Meio período,Outros estados
+55,Estágio em Ciência de Dados e Machine Learning - Afirmativa para Mulheres,Vetta,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+57,Estágio em Analista de Dados,Referência Seguros,"Brasília, Distrito Federal, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+59,Talent Pool - Data Engineering,Cargill,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+60,Analista de Risco e Modelagem Jr.,PagBank PagSeguro,São Paulo e Região,Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Meio período,São Paulo
+61,Analista de Dados (Vaga Afirmativa para Mulheres),Shopee,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+62,Data Analyst SSBI,Deloitte,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,Tempo integral,São Paulo
+64,Estágio Dados,Solenis,"São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+65,ANALISTA DE CIENCIA DE DADOS PL,Inmetrics,"Barueri, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+66,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+67,Analista de Dados Júnior,Neogrid,São Paulo e Região,Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+68,Data Engineer - Big Data (Remoto),IBM,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+69,Engenheiro de dados,APLLOS,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+70,Engenheiro de Dados Sênior,Marketdata,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+71,Estagiário(a) Ciência de Dados,Omnilogic,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+72,Cientista de Dados (Home Office/Brasil),Programmers - Beyond IT Brasil,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+73,Analista de modelagem de dados júnior,Itaú Unibanco,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+74,Analista de Business Intelligence Júnior,Itapeva Recuperação de Créditos,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+75,Analista de Dados JR,Alea S.A.,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+76,Estagiário (a) - HUB DE DADOS,Som Livre,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,Tempo integral,Outros estados
+77,Estágio em Ciência de Dados e Machine Learning - Afirmativa para Mulheres,Vetta,Belo Horizonte e Região,Híbrido,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+78,Data Visualization,Tata Consultancy Services,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+79,Data Product Owner Junior,C6 Bank,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+80,Analista de Dados (Vaga Afirmativa para Pessoas Negras),Shopee,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+81,Analista BI (d / m / f),TK Elevator,"Guaíba, Rio Grande do Sul, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+82,Estágio em Ciência de Dados,Grhats Recursos Humanos,"Sorocaba, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Meio período,São Paulo
+83,[Minsait] Analista de Dados Jr,Minsait,"Osasco, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+84,Analista de Análise de Dados Junior,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+85,Engenheiro de Dados Júnior a Pleno,GeekHunter,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+86,Analista de Dados,Work4all Brasil,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+87,Estagiário em Business Intelligence,RPO Solutions,"Teresina, Piauí, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+89,Estágio de Business Intelligence,Grupo Portfolio,"Fortaleza, Ceará, Brasil",Presencial,Analista BI,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+90,Analista de Dados,HC CONSULTING,"São José dos Campos, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+91,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,São Paulo e Região,Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+92,Data Engineer - Big Data (Remoto),IBM,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+93,Arquiteto de Dados (Vaga Afirmativa para Mulheres) - Remoto,Robert Walters,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+94,Analista de Dados (Comercial),Escola Mais,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Tempo integral,São Paulo
+95,Cientista de dados Júnior,Mindsight,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+96,Data Analysis Intern (Remote Internship - Analyst),Brainnest,"Brasília, Distrito Federal, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+97,Analista de Dados Em Benefícios,Marsh Brasil,"São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Meio período,São Paulo
+98,Arquiteto de dados,INTERA | Talent Hacking,"São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+99,Analista de Dados,Riosulense,"Rio do Sul, Santa Catarina, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Meio período,Outros estados
+100,Analista de Dados,Luandre RH - Soluções em Recursos Humanos,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+101,Analista de Dados JR,Cyrela,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+102,Cientista de Dados Junior,Porto,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+103,Data Engineer - Online Job,Oowlish,"Belo Horizonte, Minas Gerais, Brasil",Remoto,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Meio período,Outros estados
+104,Cientista de dados,Hospital Israelita Albert Einstein,São Paulo e Região,Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Tempo integral,São Paulo
+105,Environmental Data Analyst (entry level),ERM,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral,Outros estados
+106,Analista De BI I,REKRUTA JA,São Paulo e Região,Remoto,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+107,Banco de Talentos- Time Tecnologia- Dados,Zoox Smart Data,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+108,Estágio em Data Analytics (Analítico),i-Cherry,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+109,Estágio Business Intelligence,GCS Agro,"Lago Norte, Distrito Federal, Brasil",Presencial,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,Outros estados
+110,"Data Analytics, Last Mile COE",Ambev Tech,"Campinas, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+111,Analista de Dados ( Setor Marketing ) - Remoto,GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+112,Engenheiro de Dados,GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+113,Data Analysis Intern (Remote Internship - Analyst),Brainnest,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+114,Analista de Dados,Grupo GCB,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Tempo integral,São Paulo
+115,Estágio em Banco de Dados,IQVIA,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+116,TECH - DATA | Data Analyst,BTG Pactual,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+117,Insurance Data Analyst,FIS,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+118,Data Scientist (Remoto),IBM,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+119,Data Analysis Intern (Remote Internship - Analyst),Brainnest,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+120,Banco de Talentos Datarisk: Dados e Tecnologia,Datarisk,Florianópolis e Região,Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+121,Data Engineer - Online Job,Oowlish,"Florianópolis, Santa Catarina, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+122,Analytics Engineer,Adyen,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+126,Business Intelligence Analyst (HÍBRIDO),MATH,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+127,ESTÁGIO TALENTO - DATA SCIENCE,Lojas Quero-Quero S.A.,"Cachoeirinha, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+128,ANALISTA DE DADOS,Outlet Lingerie,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+129,"People Analytics - Morumbi, SP",UnitedHealth Group,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+130,Analista de Ciência de Dados Pleno,Itaú Unibanco,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+131,Analytics Insights,Quod,"Barueri, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+132,Cientista de Dados,BIZM - Business Makers,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+133,Analista de Dados Junior - para Minsait (An Indra Company),Modern Talent Hub,São Paulo e Região,Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,Meio período,São Paulo
+134,20789 - Pessoa Estagiária Nível Superior - Dados e Analytics,Intelbras,"São José, Santa Catarina, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Meio período,Outros estados
+135,Analista de Dados I,V.tal,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,Contrato,São Paulo
+136,Data Engineer,GeekHunter,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+137,analista de data analytics pleno,enjoei,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+138,"JUNIOR DATA SCIENTIST - Dubai, UAE",Cobblestone Energy,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,Tempo integral,São Paulo
+139,Analista de Dados,Grupo Via Capital,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+140,ANALISTA DE DADOS SQL,Grupo Vamos,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+141,Business Intelligence & Core Data Coordinator,IQVIA,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+142,TECH - DATA | Data Platform Engineer,BTG Pactual,São Paulo e Região,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+144,Especialista de Dados,Prudential Financial,São Paulo e Região,Remoto,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+145,Engenheiro de Dados,BIZM - Business Makers,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+146,Data Analytics Jr,Grupo Tony Veículos,"São José dos Campos, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+147,Business Analyst Intern,Amazon,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+149,"Senior Associate, Insights Data Science",Bain & Company,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+150,Engenheiro de Dados Pl,S3 BANK,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+152,Data Science Intern,Samsung Brasil,"Campinas, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+153,Analista de Dados,Weclix,"Ribeirão Preto, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+154,Analista de Dados,Grupo Apisul,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+155,Programa Minha Chance_Jovens Profissionais Microsoft e Google,Minsait,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+156,Cientista de Dados Júnior,Amplifica Digital,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+157,Estagio Analista de Dados Comerciais,Mais Estágios,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,Tempo integral,Outros estados
+158,Estágio em Business Analytics,HostGator América Latina,Brasil,Híbrido,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+159,Analista de Segurana de Dados Jr,NPW Digital,São Paulo e Região,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+160,Analista de Dados,Refera,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+161,Cientista de Dados,Meta,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+162,Analista de Data Science,Xcelis,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+163,Especialista de BI,HDI Seguros,São Paulo e Região,Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+165,DATA SCIENCE CONSULTANT SAO PAULO,Management Solutions,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,Tempo integral,São Paulo
+166,Engenheiro de Machine Learning (ML Engineer),ILUMEO - Data Science Company,"São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+168,Data Engineer - Online Job,Oowlish,"Porto Alegre, Rio Grande do Sul, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+169,Analista de Sistemas | Cientista de Dados,Deloitte,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+170,Cientista de Dados - Júnior,EY,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+171,Cientista de Dados Júnior,DataEX,"Jundiaí, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+173,Cientista de Dados,Natura,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+174,Especialista de Dados,Prudential Financial,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+175,Data Analyst Sr,banco BV,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+177,Cientista de Dados (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,1,0,1,1,1,1,0,0,1,Tempo integral,Outros estados
+178,Cientista de Dados | Big Data & AI,Globo,Brasil,Híbrido,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral,Outros estados
+180,Analista de Dados,Casa do Pica-Pau,"Goiânia, Goiás, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+181,Pessoa Cientista de Dados Júnior - Varejista de Food Service,BIP Brasil,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+182,Analista de Dados,G4 Educação,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,Tempo integral,São Paulo
+184,ANALISTA DE DADOS JR,YDUQS,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,Outros estados
+185,Data Engineer Python,GeekHunter,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,Tempo integral,São Paulo
+186,Analista de Dados Pleno - Modelos de Previsão de Demanda,Itaú Unibanco,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+187,Analista de Dados,Meta,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+188,Analista de Dados e Power BI,LogsUp Logística Sustentável,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+189,Data Engineer,TRACTIAN,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+190,Vaga afirmativa para pessoas LGBTQIA+ (Analista de Dados),Marketdata,"São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Meio período,São Paulo
+193,Vaga afirmativa para pessoas pretas (Analista de Dados),Marketdata,"São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+194,Data Engineer,Dell Technologies,Brasil,Presencial,Engenheiro de Dados,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,0,Meio período,Outros estados
+196,Analista de dados,Grupo Skytech,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+197,Data & Analytics Analyst (Latam Cross Border Team),Shopee,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+198,Data Scientist - English speaker (Hybrid),Shift Technology,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+199,Environmental Data Analyst (Entry Level),ERM,"Salvador, Bahia, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Meio período,Outros estados
+201,Data Technology Consultant,Microsoft,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+202,Artificial Intelligence Intern,Samsung Brasil,"Campinas, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+203,Estagiário de Business Intelligence,Extrabom Supermercados,"Serra, Espírito Santo, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+204,Especialista Product Owner (Dados & AI) | Advertising,Globo,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+207,Analista de Dados (Modelagem) na Vivo,INTERA | Talent Hacking,"São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Meio período,São Paulo
+208,Analista de dados pleno,Studio Z,"São José, Santa Catarina, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,Tempo integral,Outros estados
+209,Analista De Dados,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+210,Analista de Dados,Burh,"Sorocaba, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+211,Analista de Dados Júnior,i-Cherry,"Curitiba, Paraná, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+212,Trainee Recrutamento Tech,NEORIS,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+213,Analista De Dados,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+214,Analista De Dados,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+218,Business Systems Analyst Jr.,IQVIA,"São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+220,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,São Paulo e Região,Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Meio período,São Paulo
+221,Data Analytics Mid-Level,CI&T,Brasil,Remoto,Analista de Dados,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Meio período,Outros estados
+222,Pessoa Engenheira de Dados,XP Inc.,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+223,Engenheiro de dados,DISYS Brasil,São Paulo e Região,Híbrido,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+225,Data Analyst - Listings,Shopee,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+226,"Marketing Analyst (Bangkok Based, relocation provided)",Agoda,São Paulo e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+227,Analista De Dados,Brasilcom,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+228,Data Analyst Specialist,Bridgestone do Brasil,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+231,"Data Analytics, Last Mile COE",Ataway,"Campinas, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+233,Analista de banco de dados,PSM COMPANY,"Brasília, Distrito Federal, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+234,Analista de BI,Hospital Israelita Albert Einstein,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+237,Banco de Talentos - Business Intelligence,MODALGR,"Santos, São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Meio período,São Paulo
+238,Analista de Dados,Varejo MAIS,"Natal, Rio Grande do Norte, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+239,Analista de Dados,Hirota Food Supermercados,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+240,ANALISTA DE DADOS - CRÉDITO,Grupo Avenida,São Paulo e Região,Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+241,Data Engineer,Corteva Agriscience,"Barueri, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+242,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Manaus, Amazonas, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+244,Engenheiro de dados,Medway | Educação Médica,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+245,Analista de dados,BRNPAR Empreendimentos Imobiliários.,"Araras, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+246,Cientista de Dados Machine learning pleno,GeekHunter,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+248,S&PP Analytics Support – Sustainability Services,Accenture Brasil,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+249,Data Scientist Specialist,Gympass,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+250,Data Engineer Jr.,Peers Consulting & Technology,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Meio período,São Paulo
+253,Data Engineer,BEES Brasil,"Campinas, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+254,Environmental Data Analyst (Entry Level),ERM,"Porto Alegre, Rio Grande do Sul, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral,Outros estados
+255,Analista de Dados Sênior,Uze,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+256,Analista BI - Powercenter,Foursys,Brasil,Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+257,Data Engineer Coordinator (Marketplace Fraud Prevention),Shopee,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+259,Analista Banco de Dados Pleno,Bradesco Seguros,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+260,Data Engineer,Adyen,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+262,Sympla | Analista de Dados - Risco,Anywhere,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+263,Analista de BI,C&A Brasil,"Barueri, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+266,Artificial Intelligence Analyst,Tata Consultancy Services,"São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+269,"Data Analyst, Strategic Partnerships( Bangkok based)",Agoda,São Paulo e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+270,Business Analytics,Egger e Mesquita Advogados Associados,São Paulo e Região,Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+272,Data Scientist (Fraud Prevention),"CloudWalk, Inc.","São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+273,Junior Data Scientist,4flow,"Campinas, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+274,Data Analyst Business Operations,Nowports,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+275,Pessoa Engenheira de Dados | Big Data & AI,Globo,Brasil,Presencial,Cientista de Dados,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+277,Data Scientist,Peers Consulting & Technology,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Meio período,São Paulo
+278,Alteryx Data Scientist,Data Meaning,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+279,Data Visualization Pleno,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+280,Business Data Analyst - Chargeback,Shopee,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+281,Environmental Data Analyst (Entry Level),ERM,"Belo Horizonte, Minas Gerais, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral,Outros estados
+282,Digital Analytics,XP Inc.,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+283,Estágio em Indicadores (PowerBi e Excel) - Vaga exclusiva para mulheres,Braskem,"São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+284,Pessoa Engenheira de Dados Júnior,Provi,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+285,Analista de Dados,Icaro Tech,Campinas e Região,Híbrido,Analista de Dados,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+286,Analista de Dados,CTC,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+287,Cientista de Dados Junior,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+288,Analista Power BI,DBC Company,Brasil,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+289,Engenheiro de Dados PL | Open Finance,PicPay,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,Meio período,São Paulo
+290,Business Intelligence Analyst,IQVIA,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+293,TECH - DATA | Data Analytics Specialist,BTG Pactual,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,Tempo integral,São Paulo
+295,Engenheiro de Dados Jr.,Sua Música,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+296,Data Scientist,OpenCircle,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+297,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Curitiba, Paraná, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+298,Monitoring Analyst,"CloudWalk, Inc.","São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Meio período,São Paulo
+299,Cientista de Dados III | Telecine,Globo,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+301,BI Engineer,Amazon Business,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,Tempo integral,São Paulo
+302,Banco de Talentos - Cientista de Dados,Duratex,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,Tempo integral,São Paulo
+303,Analista De Dados | Inteligência Artificial,Unifique Telecomunicações,"Timbó, Santa Catarina, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+304,Cientista de Dados - Sênior,EY,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+305,Analista de Análise de Dados Pleno,C6 Bank,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+306,Data Analyst,Wipro,Brasil,Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+309,Engenheiro de Dados | Analytics Engineer,Trinus Co.,"Goiânia, Goiás, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+310,Analista De Dados Crm,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+312,Analista de produtos,Bradesco Seguros,"Barueri, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Contrato,São Paulo
+313,Analista de B.I SR,Hospital Sírio-Libanês,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Tempo integral,São Paulo
+315,Analista de Ciência de Dados,Lojas Renner S.A.,Porto Alegre e Região,Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Meio período,Outros estados
+317,Analista de Dados (Exclusiva para pessoas com deficiência - PCD),Alice,"São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+318,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Salvador, Bahia, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+319,Staff Machine Learning Engineer - Freemium,Spotify,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,Tempo integral,São Paulo
+320,Consultor De Dados,Delfia,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+321,Tecnologia | Cientista de Dados e Analytics,Cielo,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+322,Cientista de Dados I | Inteligência e Soluções Para o Consumidor,Globo,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+324,Data Scientist - Advanced Analytics (Remoto),IBM,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,1,Tempo integral,São Paulo
+325,Analista de Dados (Exclusiva para PCDs),Dasa,"São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+326,Environmental Data Analyst (Entry Level),ERM,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral,Outros estados
+327,ECS | Pessoa Analista de Dados Pleno,Serasa Experian,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+331,CRIPTO (MYNT) | Business Analyst,BTG Pactual,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+332,Mulheres em Dados | Engenharia de Dados,Itaú Unibanco,"São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+334,Environmental Data Analyst (Entry Level),ERM,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,Tempo integral,São Paulo
+335,Consultor De Dados,Delfia,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+336,BI Engineer,Amazon Business,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,Tempo integral,São Paulo
+337,Engenheiro de Dados Sênior,Omega Energia,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+338,Analista de Arquitetura de Dados Pleno,banco BV,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Meio período,São Paulo
+339,Analista ETL,TMF Group,"Barueri, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+340,Staff Software Engineer - Data Platform,Atlas.xyz,Brasil,Presencial,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+341,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,Belém e Região,Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+343,TECH - DATA | Data Engineer,BTG Pactual,São Paulo e Região,Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+344,Data Engineer - Online Job,Oowlish,"São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+345,Analista de Dados - BI,Jadlog Logística,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+346,Especialista I Data Analytics (Canal Loja),Grupo Boticário,Brasil,Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,Tempo integral,Outros estados
+349,Analista de Modelagem Sênior,Quod,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+351,Data Engineer Mid-level,CI&T,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+352,Analista de Modelagem de Dados,Puravida,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+353,Machine Learning Dev,Capgemini,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+354,Data Scientist,Amaris Consulting,Campinas e Região,Híbrido,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+355,Vaga afirmativa para pessoas pretas (Cientistas de Dados),Marketdata,"São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+358,"Sales Specialist, Data Analytics, Small and Medium-sized Businesses",Google,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+359,Business Intelligence Analyst *W2 only* [Remote],Braintrust,São Paulo e Região,Presencial,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+360,Data Scientist,Clara,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+361,Front Office Risk Analyst,StoneX Group Inc.,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+362,Analistas e Consultores Host,Accenture Brasil,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+364,Analista de Dados,BRASIL E XAVIER ATIVIDADES DE PSICOLOGIA LTDA,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral,Outros estados
+365,ANALISTA DE DADOS TELECOM - BAURU,Paschoalotto,"Bauru, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+368,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Brasília, Distrito Federal, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+369,Machine Learning Developer,unico IDtech,Brasil,Remoto,Cientista de Dados,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Tempo integral,Outros estados
+370,Analista De Dados Crm,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+371,Analista De Dados Crm,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+373,Analista de Privacidade de Dados,AlmavivA do Brasil,"São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+374,Data/Back-End Engineer - Analytics Platform,Spotify,Brasil,Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Meio período,Outros estados
+375,Engenheiro / Cientista de Dados,ArcelorMittal Sistemas,"Belo Horizonte, Minas Gerais, Brasil",Híbrido,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+377,Analista De Dados Crm,Grupo Selecionar,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+378,Analista de dados,Seleção & Avaliação de Potencial,"São Sebastião do Caí, Rio Grande do Sul, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,Outros estados
+379,Analista de Dados,A3Data,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+380,Business Analyst - Vaga exclusiva para PCD,Oracle,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+381,Cientista de Dados Pleno - Sleep Tracker (Persono),ammo.varejo,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral,Outros estados
+382,Analyst 3 | QuantDevs,XP Inc.,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+383,Cientista de dados,Grupo IOB,Brasil,Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+384,Data Specialist - Customer Service Strategy,Gympass,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+385,Engenheiro de Dados I,V.tal,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+386,[RH] Analista de Dados,Beep Saúde,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+387,Analista de Dados TI,Record TV,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+388,Support System Analyst,Tata Consultancy Services,"São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+390,Pessoa Analista Consultora de Dados & Analytics,Itaú Unibanco,"São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,Tempo integral,São Paulo
+391,"Senior Data Analyst, Partner Development – (Statistics/ML/BI) (Bangkok-based, relocation provided)",Agoda,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+393,Pessoa Cientista de Dados Sênior,banQi,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Tempo integral,São Paulo
+394,Data Tech Lead,banco BV,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+395,Analista De Dados -Projetos- / Piracicaba / 1 Vaga -S- -2541585 -,AG Talentos,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+396,Cientista de Dados,Keyrus Brasil,São Paulo e Região,Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+397,Engenheiro de dados,Ânima Educação,Brasil,Remoto,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+398,Business Analyst,Tata Consultancy Services,"São Paulo, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+400,Analista Pleno | Foco em BI (Data Visualization),Deloitte,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+401,Estágio em Indicadores (PowerBi e Excel) - Vaga exclusiva para pessoas negras,Braskem,"São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+402,Analista de Dados _ Insights & Analysis,JeffreyGroup,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+403,Data Science (Presencial - Belo Horizonte),Coodesh,"Belo Horizonte, Minas Gerais, Brasil",Híbrido,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+404,Analista de Estrategia e Prevenção a Fraude Jr.,PagBank PagSeguro,São Paulo e Região,Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+406,Data Engineer - Data Modeling (Home Office),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+408,Analista De Dados,Mercopampa Transportes,"Santa Maria, Rio Grande do Sul, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+409,CHATBOT ANALYST,Mundiale,Brasil,Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+410,Especialista de Análise de Dados,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+411,Analista ETL,Minsait,"São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+413,Analista de Dados,Icaro Tech,"Campinas, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,Meio período,São Paulo
+415,Analista de Business Intelligence Pleno,ALD Automotive Brasil,São Paulo e Região,Presencial,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+417,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Porto Alegre, Rio Grande do Sul, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+418,GCP Data Engineer | Remote,Capgemini,São Paulo e Região,Remoto,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,Tempo integral,São Paulo
+419,Engenheiro de Dados,Accenture Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+420,Analista de Dados & Growth,Pieta.tech,"Florianópolis, Santa Catarina, Brasil",Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+421,Analista de Dados e Insights,Score Group Brasil,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Meio período,São Paulo
+422,Business Analytics SR,banco BV,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+423,Data Engineer - Personalization,Spotify,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+424,Data Engineer | Python Developer,Reply,Brasil,Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+426,Analista de Web Analytics,Take Blip,Belo Horizonte e Região,Híbrido,Analista de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Contrato,Outros estados
+428,Engenheiro Machine Learning,labsit,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,Tempo integral,São Paulo
+429,Analista de Dados Pleno,Riachuelo,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+430,Pessoa Engenheira de Dados,Z1,Brasil,Híbrido,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Meio período,Outros estados
+431,Top Funnel Analyst,Nielsen,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+433,ANALISTA DE INTELIGENCIA ESTATÍSTICA PLENO (100% REMOTO),ClearSale,Brasil,Remoto,Analista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+434,Gerente de Dados BI,Dasa,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Meio período,São Paulo
+435,Analista de Dados e Business Intelligence,Novare RH,"Curitiba, Paraná, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+436,Analista de Dados,Robert Half,"São Bernardo do Campo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+438,Remote Data Analyst/Engineer Jobs,Turing.com,Brasil,Remoto,Analista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+439,Analista VBA,GET ITalent,"São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+440,Engenheiro de Dados - Business Intelligence,ALD Automotive Brasil,"São Paulo, Brasil",Remoto,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+442,Applied Data Scientist,dunnhumby,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+443,Análise de BI | Híbrido,Grupo Mult,"Belo Horizonte, Minas Gerais, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+445,Analista de Dados - Jr e Pl híbrido - São Paulo,Atento Brasil,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+446,Cientista de Dados Pleno,Porto,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+447,"Insights Analyst (Bangkok Based, relocation provided)",Agoda,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+448,Data Scientist - Remote - Latin America,FullStack Labs,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Meio período,São Paulo
+450,Machine Learning Engineer,Luizalabs,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+452,Banco de Talentos - Cientista de Dados,Dexco,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,Meio período,São Paulo
+453,Analista De Projetos Desenvolvedor - Cientista De Dados,C2C CLOSE TO CONSUMER BRASIL PROMOTORA DE VENDAS LTDA,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Tempo integral,São Paulo
+454,212039 Business Intelligence Developer,IQVIA,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+459,Analista Business Intelligence Pleno (PCD),Base Consultoria,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+463,Analista de Dados - CRM,Hospital Israelita Albert Einstein,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+464,Analista de Sistemas de TI | Logística,Lojas Renner S.A.,"Cabreúva, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+465,Analista de Dados Pleno,"Opice Blum, Bruno e Vainzof Advogados Associados","São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+466,Data Technology Consultant,Microsoft,"Alagoas, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+467,System Test Analyst,hEDGEpoint Global Markets,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+469,Application Developer - Microsoft Analytics (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+470,Analista de Dados Estatísticos,Bomi Group,"Itapevi, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+471,Pessoa Cientista de Dados - CoE xTech,BIP Brasil,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+472,"Business Analyst, Strategic Partnerships( Bangkok based)",Agoda,São Paulo e Região,Remoto,Analista BI,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+474,Staff Data Engineer - Messaging Platform,Spotify,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Meio período,São Paulo
+475,Data Engineer - Online Job,Oowlish,"Salvador, Bahia, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+476,"Software Engineer, People with Disabilities",Google,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+477,Pessoa Especialista Em Ciência De Dados (Area 1),GPTI,"Brasília, Distrito Federal, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+478,Analista de Dados Comercial,Escola Mais,São Paulo e Região,Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,Tempo integral,São Paulo
+479,Business Intelligence Developer,IQVIA,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+480,Business Analytics,XP Inc.,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+481,Data Engineer Intern,MBOCHIP,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+482,Pessoa Engenheira de Software | Big Data & AI,Globo,Brasil,Presencial,Cientista de Dados,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,Tempo integral,Outros estados
+484,Analista Inteligência de Dados Pleno,Porto,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,Tempo integral,São Paulo
+485,Especialista Data Analysis Pleno a Sênior,GeekHunter,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+486,Trainee Recrutamento Tech,NEORIS,"São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+487,Analista de Dados Estratégicos,Unimed-BH,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+489,ANALISTA DE DADOS FLORESTAIS - COLHEITA,Gerdau,"Três Marias, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral,Outros estados
+490,Analista de Governança de Dados,Itaú Unibanco,"São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+492,"Senior Business Analyst (Bangkok Based, relocation provided)",Agoda,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+493,Data Engineer - Online Job,Oowlish,"Brasília, Distrito Federal, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+494,Machine Learning Specialist,BEES Brasil,"Campinas, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+495,ANALISTA DE DADOS,Thermomatic do Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Contrato,São Paulo
+496,Business Analytics,Gipsyy,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+498,Engenheiro de Dados,EY,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Meio período,São Paulo
+501,Analista de Sistemas | Arquiteto(a) de Dados,Deloitte,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+502,Web Analytics Engineer Jr,Descomplica,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Analista de Dados,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+503,Analista De Governança De Dados,Iterative Inc.,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+505,Senior Data Analyst,Pipefy,Brasil,Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+507,Remote Senior Data Scientist Jobs,Turing.com,Brasil,Presencial,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+509,Cientista de Dados Pleno,TGroup,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Meio período,São Paulo
+510,Pessoa Analista de Governança de Dados (exclusiva para PCDs),UNICRED DO BRASIL,"Porto Alegre, Rio Grande do Sul, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral,Outros estados
+517,Data Technology Consultant,Microsoft,"Mato Grosso do Sul, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+518,Data Engineer - Big Data (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+519,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,"Curitiba, Paraná, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+520,Cientista de dados,Entelgy Brasil,Brasil,Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+521,Analista de Dados Jurídicos - KPIs,Nelson Wilians Advogados,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+523,Intern Data Consultant - Sao Paulo - October 2022,Artefact,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+524,"Analista de BI - Uberlândia, MG",Sankhya Gestão de Negócios,"Uberlândia, Minas Gerais, Brasil",Híbrido,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+525,Programa Potenciais - Estagio,Stefanini Brasil,"São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+526,Engenheiro de dados,Optima PS2 Solutions,"Cotia, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+527,Engenheiro de dados,Capitani Group,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+528,"Data Scientist - Supply Chain Innovation, Supply Chain & Integration",Amazon,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+530,Analista de Dados Jr/Pl/Sr - Belo Horizonte e região - home office,Atento Brasil,Belo Horizonte e Região,Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+534,Customer Experience | Data Analyst,Hurb,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+535,Mid-Level Data Analyst | Trainiac,Gympass,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+537,BUSINESS ANALYST,Kavak.com,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,Contrato,São Paulo
+538,Remote Data Analyst Jobs,Turing.com,Brasil,Remoto,Analista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+539,2023 Bloomberg Trainee Program - Analytics & Sales - January Class,Bloomberg LP,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+542,Python Development Analyst,Tata Consultancy Services,Brasil,Presencial,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+545,BI TI Desenvolvedor Programador - Escritrio De Contabilidade,Moresco Contabilidade,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,Outros estados
+546,Banco de Talentos - Cientista de Dados,Plannera,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+547,Associate Data Analyst- Customer Experience Group | Bangkok-based,Agoda,"Manaus, Amazonas, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+549,"RGM Sr. Analyst, LAC",Bacardi,"São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+550,Data Technology Consultant,Microsoft,"Acre, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+551,Data Scientist (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+552,Engenheiro de Dados,Grupo Habib's,"Barueri, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+553,Data Analyst,Artefact,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+554,Engenharia de Dados,Itaú Unibanco,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+555,Analista de BI,AKA Tecnologia,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Contrato,São Paulo
+556,Engenheiro de Dados Sr.,PagBank PagSeguro,São Paulo e Região,Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+557,Antifraud Analyst,99,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+559,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+560,Data Engineer,Trademaster,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+562,Data Analytics Specialist Mid-Level,CI&T,Brasil,Híbrido,Analista de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+564,Data Acquisition Advisor,TransUnion,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+565,Engenheiro de Dados Sr,Stefanini Brasil,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+566,"Associate, Data Insights and Forensics",Kroll,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,0,1,1,0,1,1,Tempo integral,São Paulo
+567,Data Platform Engineer,XP Inc.,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+569,Data Technology Consultant,Microsoft,"Santa Catarina, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Meio período,Outros estados
+570,Data Scientist Specialist,Samsung Brasil,"Campinas, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+571,[GH] ANALISTA DE BI PL - REMOTO - #41954,iBlue Consulting,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+572,Engenheiro de Dados Pleno (GCP),banco BV,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+573,Data Analytics Specialist Senior,CI&T,Brasil,Híbrido,Analista de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+575,"Senior Associate, Insights Data Science",Bain & Company,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+576,Engenharia de Dados,Itaú Unibanco,"São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+577,Data Analytics,e-frete,"Itajaí, Santa Catarina, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+578,Analistas e Consultores de Telecomunicações,Accenture Brasil,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+579,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,"Salvador, Bahia, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+580,Business Intelligence & Core Data Coordinator,IQVIA,"São Paulo, São Paulo, Brasil",Híbrido,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+581,Engenheiro de Dados,Qintess,Brasil,Remoto,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+582,Finance Data Analyst,Shopee,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+583,Engenheiro Trainee,Level Group BR,"Barueri, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+584,Engenheiro de dados Big Data,Yssy & Co.,"Barueri, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+585,Engenheiro de dados,Assurance IT,"São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+586,Intern Data Engineer - Sao Paulo - October 2022,Artefact,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+587,Analista de Governança de Dados Jr,Genial Investimentos,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+590,Data Technology Consultant,Microsoft,"Minas Gerais, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+592,Data Engineer,Corteva Agriscience,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+593,Analista e Consultor (a) de Web Analytics,Accenture Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+594,"Analytics Specialist (Bangkok Based, relocation provided)",Agoda,Belém e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+596,Analista de Data Analytics Pl / Cientista de Dados Pl,CPFL Energia,"Campinas, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+597,Staff Data Engineer,XP Inc.,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+599,Business Analyst (Return and Refund),Shopee,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+601,Analista de Dados - Exclusivo para Profissionais com Deficiência,Itaú Unibanco,Brasil,Remoto,Analista de Dados,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Tempo integral,Outros estados
+603,Data Engineer - Big Data (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+609,Business Analyst,McKinsey & Company,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+610,Data Strategist [Remote],Braintrust,São Paulo e Região,Remoto,Cientista de Dados,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+616,"Senior Analyst (Bangkok Based, relocation provided)",Agoda,São Paulo e Região,Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+617,Data Technology Consultant,Microsoft,"Mato Grosso, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+619,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+623,Data Engineer - Online Job,Oowlish,"Rio de Janeiro, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+626,CIENTISTA DE DADOS PLENO,Geofusion,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral,São Paulo
+627,Consultor de Dados,Mind Lab,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+628,Coordenador Marketing BI,Coca-Cola FEMSA,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+629,AI Researcher Specialist,Samsung Brasil,"Campinas, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+630,Business Analyst,Customer Intelligence Inc.,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+633,Engenheiro de Dados Hadoop - Remoto,Capgemini,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+634,ANALISTA DE DADOS PL,Platos Educação,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+635,Cientista de Dados Sênior | DialogFlow,C6 Bank,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+636,Analista Power BI Sênior,Softtek,Brasil,Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+637,Remote Junior Machine Learning Engineer Jobs,Turing.com,Brasil,Remoto,Engenheiro de Dados,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Contrato,Outros estados
+638,Engenheiro de Dados Jr.,Armac,"Barueri, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+639,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+641,Associate Data Analyst- Customer Experience Group | Bangkok-based,Agoda,"Fortaleza, Ceará, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+642,Data Technology Consultant,Microsoft,"Paraná, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+644,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Presencial,Cientista de Dados,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+645,Engenheiro de dados,UDS Tecnologia,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+646,Vagas Remotas de Engenheiro de Machine Learning,Turing.com,Brasil,Remoto,Engenheiro de Dados,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+647,Data Analytics Engineer III,Dock,Brasil,Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+648,Data Engineer (Remote position),Luxoft,Brasil,Presencial,Engenheiro de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+650,Business Analyst (Pharma/ Healthcare Segment),Tata Consultancy Services,Brasil,Híbrido,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+651,Especialista Ciência Dados,Raízen,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Meio período,São Paulo
+652,Analista de Dados (BI) - Brasília/DF,J&T Express Brasil,"Brasília, Distrito Federal, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral,Outros estados
+654,Business Analyst - ADM (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+655,Estágio em Dados,Gringo,"São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+656,ANALISTA DE DADOS BI SR (TABLEAU) – 21325,Bosch Brasil,"Campinas, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,Tempo integral,São Paulo
+657,Analista de Dados Sr,Atento Brasil,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+658,Data Specialist (contrato por prazo determinado),Yara International,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+659,Analista Customer Science Pl,banco BV,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+660,Cientista de dados,Natura,"São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+661,LiveOps Data Science - QuantumBlack Labs,"QuantumBlack, AI by McKinsey","São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+662,"Data Analyst, Trilogy (Remote) - $60,000/year USD",Crossover for Work,"Campinas, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+663,Engenheiro de Dados Big Data Python,Keyrus Brasil,São Paulo e Região,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+664,Data Engineer,Adventures,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+665,Data Engineer,Amaris Consulting,Campinas e Região,Presencial,Engenheiro de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+666,Data Engineer - Remote - Latin America,FullStack Labs,Brasil,Remoto,Engenheiro de Dados,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+667,"Analyst (Bangkok Based, relocation provided)",Agoda,"Manaus, Amazonas, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+669,Data Analytics - Marketing,Hindiana,Brasil,Híbrido,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+670,Engenheiro de dados,We Hunt,São Paulo e Região,Híbrido,Engenheiro de Dados,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+671,Data Technology Consultant,Microsoft,"Rio Grande, Rio Grande do Sul, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+673,Specialist Data Engineer,Pipefy,Brasil,Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+674,Kotlin Mobile Developer - Analyst and Consultant,Accenture Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+675,Company Financials & Earnings Estimates Analyst,Bloomberg LP,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Tempo integral,São Paulo
+677,Sr. Data Analyst (Data Scientist) LATAM,Thermo Fisher Scientific,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+679,Big Data Engineer,WhyLabs,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+681,Cientista de Dados,Portal Telemedicina,Brasil,Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Tempo integral,Outros estados
+682,Senior Data Scientist – Core Infrastructure,Spotify,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,Tempo integral,São Paulo
+683,Software Engineer (AI),Gupy,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,Tempo integral,São Paulo
+686,Data Specialist (temporary),Yara International,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+688,Data Analyst,Saint Paul Escola de Negócios,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+689,Analista de dados sênior,Uze,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+690,"Analyst or Senior Analyst- Customer Marketing (Bangkok Based, relocation provided)",Agoda,São Paulo e Região,Presencial,Analista de Dados,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+691,Data Technology Consultant,Microsoft,"Belém, Pará, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+692,Business Analytics Sênior,banQi,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+693,Coordenador de Banco de Dados,PagBank PagSeguro,São Paulo e Região,Presencial,Cientista de Dados,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+694,Analista De Dados Crm,Grupo Selecionar,"João Pessoa, Paraíba, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+695,Analista de Dados | Plataforma Logística,Lojas Renner S.A.,Porto Alegre e Região,Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Meio período,Outros estados
+697,Especialista em Ciência de dados | Data Analytics,americanas s.a.,Brasil,Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+698,Data Translator Specialist,Creditas,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Contrato,São Paulo
+699,"Product Data Scientist, Spotify Advertising",Spotify,Brasil,Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,Meio período,Outros estados
+700,Data Engineer Mid Level,CI&T,Brasil,Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Meio período,Outros estados
+701,Remote Data Analyst / Scientist Jobs,Turing.com,Brasil,Remoto,Analista de Dados,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+702,Especialista de Dados,Bullla - De gente pra gente,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+703,Data Architect (100% Remote),Rain,Brasil,Remoto,Cientista de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Meio período,Outros estados
+704,Cientista de Dados Pleno,Ânima Educação,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral,Outros estados
+705,Data Engineer,Tata Consultancy Services,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+708,Engenheiro de Dados,CantuPneus,"Itajai, Roraima, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+709,Analista de Dados,3Neuron,"Florianópolis, Santa Catarina, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+710,Analista de Dados,ORGANNACT,"Curitiba, Paraná, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+711,Analista de Dados Pleno,Marketdata,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+712,Data Engineer,TerraMagna,"São José dos Campos, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+713,Pessoa Engenheira de Machine Learning - Pleno/Sênior,Quanto,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+714,Analista de Produtos Júnior,Zurich Santander Insurance America,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+715,Data Technology Consultant,Microsoft,"Piauí, Brasil",Híbrido,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+716,"Analyst / Specialist (Bangkok Based, relocation provided)",Agoda,Belém e Região,Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+717,Data Consultant - Sao Paulo - October 2022,Artefact,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+720,Analista de Dados/ Crédito,UNICRED CENTRAL MULTIRREGIONAL,"Belo Horizonte, Minas Gerais, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+721,Business Analyst,OpenText,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+722,Analista Cloud DBA Sênior,Pravaler,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+723,Analista de Auditoria JR/PL - Dados,Linx,Brasil,Remoto,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,Tempo integral,Outros estados
+724,"Data Scientist, Spotify For Artists",Spotify,Brasil,Presencial,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+726,Data Engineer - QuantumBlack,"QuantumBlack, AI by McKinsey","São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+727,Engenheiro de dados,3CON Consultoria e Sistemas,"São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+728,Vagas Remotas de Analista de Dados,Turing.com,América Latina,Híbrido,Analista de Dados,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Tempo integral,Outros estados
+729,Mid-Level Data Analyst | Trainiac,Gympass,Brasil,Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+731,Consultor(a) SAP BW Analytics (Remoto),IBM,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Contrato,São Paulo
+732,Analista Junior,Jobcenter do Brasil Ltda.,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+733,Data Engineer,PANTHEON INC. BRASIL,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+735,Afirmativa para Mulheres | Business Analytics,XP Inc.,Brasil,Remoto,Analista BI,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+736,Remote Data Scientist Jobs,Turing.com,"Montenegro, Rio Grande do Sul, Brasil",Híbrido,Cientista de Dados,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,1,Tempo integral,Outros estados
+737,Remote Data Scientist Jobs,Turing.com,Brasil,Remoto,Cientista de Dados,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Tempo integral,Outros estados
+738,Cientista de Dados,Engesoftware,"Brasília, Distrito Federal, Brasil",Remoto,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Contrato,Outros estados
+739,Analista de Dados,Àgora Marketing e Pesquisa,"Araruama, Rio de Janeiro, Brasil",Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral,Outros estados
+740,Data Technology Consultant,Microsoft,"Rondônia, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+743,Analista de Auditoria JR/PL - Dados,Linx,Brasil,Híbrido,Analista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,Tempo integral,Outros estados
+744,Analista de Dados Pleno,Brivia,"Belo Horizonte, Minas Gerais, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Contrato,Outros estados
+745,Sr Data Science Systems Engineer (Brazil),SAS,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+746,ACCESS AND HEOR ANALYST – INNOVATIVE MEDICINE – SÃO PAULO,Novartis Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+747,"Data Scientist - Part-Time, Bloom Institute of Technology (BloomTech) (Remote) - $30,000/year USD",Crossover for Work,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+749,Data Protection Associate - Risk Management,EY,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+750,Analista de Dados (São Paulo ou Belo Horizonte),Golder,"Agudos, São Paulo, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+751,[Minsait - PT JPA] Analista de Dados ETL,Minsait,"João Pessoa, Paraíba, Brasil",Remoto,Analista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+752,Data Engineer,Sicredi,"Porto Alegre, Rio Grande do Sul, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+753,Analista de Dados Pleno,Marketdata,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+754,Consultor(a) SAP BW Analytics (Remoto),IBM,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tempo integral,São Paulo
+756,"Analyst / Specialist (Bangkok Based, relocation provided)",Agoda,"Salvador, Bahia, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+759,Remote Data Scientist Jobs,Turing.com,Brasil,Remoto,Cientista de Dados,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+761,PESSOA ENGENHEIRA DE DADOS PLENO,NAVA - Technology for Business,"São Paulo, São Paulo, Brasil",Híbrido,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+762,Analista Júnior de Dados- Mercado Envios,Mercado Livre,"Barueri, São Paulo, Brasil",Híbrido,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+763,Business Analyst,Kavak.com,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,Tempo integral,São Paulo
+764,Cientista de Dados Sr (vaga afirmativa para Mulheres),Alelo Brasil,Brasil,Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+766,Engenheiro de dados,FPF Tech,"Manaus, Amazonas, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+767,Analista Marketplace Sênior (foco em Dados),Via,"São Paulo, São Paulo, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Tempo integral,São Paulo
+768,Business Analyst,Kavak.com,"São Paulo, São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,Tempo integral,São Paulo
+769,PESSOA CONSULTORA EM CIÊNCIA DE DADOS (Remoto),Localiza,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Cientista de Dados,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+770,ANALISTA DE DADOS,Dynamox,"Florianópolis, Santa Catarina, Brasil",Presencial,Analista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+771,Analista Júnior de Dados- Mercado Envios,Mercado Livre,"Barueri, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+775,PESSOA ENGENHEIRA DE DADOS PLENO,NAVA - Technology for Business,"São Paulo, São Paulo, Brasil",Presencial,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+776,Pessoa Engenheira de Dados Júnior | Vaga Afirmativa para Pessoas com Deficiência,Jusbrasil,"São Paulo, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+777,Trabajos remotos de Ingeniero Machine Learning,Turing.com,América Latina,Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,Tempo integral,Outros estados
+778,[Banco de Talentos] Analytics,Solvis,"Curitiba, Paraná, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+779,Engenheiro de Dados,Meta,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+780,Analista de Dados Pl.(Remoto),Ituran Brasil,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,São Paulo
+781,Analista de BI Pleno,Music2/Mynd,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Tempo integral,São Paulo
+782,Risk Analyst,Gympass,São Paulo e Região,Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+783,Analista de Planejamento Comercial I Foco em Dados - Exclusivo para Profissionais com Deficiência,Rede,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+784,Cientista de Dados Sr (vaga afirmativa para Mulheres),Alelo Brasil,Brasil,Remoto,Cientista de Dados,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+787,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,"Belo Horizonte, Minas Gerais, Brasil",Remoto,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+788,Analista de Dados Pleno,Brivia,"Belo Horizonte, Minas Gerais, Brasil",Presencial,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tempo integral,Outros estados
+789,Sr Data Science Systems Engineer (Brazil),SAS,"São Paulo, São Paulo, Brasil",Remoto,Engenheiro de Dados,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+790,Data Technology Consultant,Microsoft,"São Luís, Maranhão, Brasil",Presencial,Cientista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,Tempo integral,Outros estados
+791,Business Analyst (6 vagas) - 2022.2,Gradus Consultoria de Gestão,"São Paulo, Brasil",Remoto,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Tempo integral,São Paulo
+792,"Analyst (Bangkok Based, relocation provided)",Agoda,Belém e Região,Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,Outros estados
+794,Engenheiro de Dados,innolevels,"Rio de Janeiro, Rio de Janeiro, Brasil",Híbrido,Engenheiro de Dados,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+795,Remote Data Scientist Jobs,Turing.com,Brasil,Remoto,Cientista de Dados,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+799,Product Analyst,Confidential,"São Paulo, São Paulo, Brasil",Híbrido,Analista de Dados,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+800,Engenheiro de Dados,Jump Label Solutions,"São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+801,Remote Machine Learning Data Scientist Jobs,Turing.com,Brasil,Híbrido,Cientista de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+802,Statistical Programmer,Labcorp,"Sertãozinho, São Paulo, Brasil",Remoto,Cientista de Dados,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,Tempo integral,São Paulo
+803,Engenheiro de Machine Learning II (Produtos Digitais) - Vaga Afirmativa para Talentos Diversos,Grupo Boticário,Brasil,Híbrido,Engenheiro de Dados,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+804,"Data Scientist, Strategic Research",Spotify,Brasil,Remoto,Cientista de Dados,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,Tempo integral,Outros estados
+806,Analista de Dados - BI,Ligga,Londrina e Região,Remoto,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+807,Analista de inteligência empresarial,Adecco,"Barueri, São Paulo, Brasil",Remoto,Analista de Dados,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Tempo integral,São Paulo
+808,Engenheiro de Dados Sênior - Azure,EY,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+809,Remote AI Researcher Jobs,Turing.com,Brasil,Remoto,Cientista de Dados,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,Tempo integral,Outros estados
+810,Analista de Dados e Sistemas,Hospital Pequeno Principe,"Curitiba, Paraná, Brasil",Remoto,Analista de Dados,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+811,ENGENHEIRO DE MACHINE LEARNING SR (100% REMOTO),ClearSale,"São Paulo, São Paulo, Brasil",Presencial,Engenheiro de Dados,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,Tempo integral,São Paulo
+812,Business Analyst - ADM (Remoto),IBM,"Rio de Janeiro, Rio de Janeiro, Brasil",Presencial,Analista BI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+815,"Analyst & Senior Analyst- Pay Per Click, Marketing (Bangkok Based, relocation provided)",Agoda,"São Paulo, São Paulo, Brasil",Presencial,Analista de Dados,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Tempo integral,São Paulo
+816,Data Engineer II - Fintech,Amazon,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+819,Especialista Engenheiro de Dados,ViaHub,"São Paulo, São Paulo, Brasil",Híbrido,Engenheiro de Dados,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
+820,Consultor(a) Business Analytics (Qlik) - São Paulo,Deloitte,"São Paulo, São Paulo, Brasil",Presencial,Analista BI,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,Tempo integral,São Paulo
+823,Technical Product Owner Analyst II (Product Discovery),Dock,Brasil,Híbrido,Analista de Dados,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Tempo integral,Outros estados
+826,Engenheiro de Dados,Stefanini Brasil,"Brasília, Distrito Federal, Brasil",Presencial,Engenheiro de Dados,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Tempo integral,Outros estados
+827,Big Data Engineer (Scala-Spark),Applaudo,São Paulo e Região,Híbrido,Engenheiro de Dados,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,Tempo integral,São Paulo
